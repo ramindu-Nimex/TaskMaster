@@ -20,7 +20,7 @@
             android:fontFamily="@font/poppins"
             android:text="Add Task."
             android:textStyle="bold"
-            android:textColor="@color/red"
+            android:textColor="@color/primary_color"
             android:textSize="24sp" />
 
         <EditText
